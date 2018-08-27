@@ -13,3 +13,14 @@ We detect lines and VP by a RANSAC-based algorithm that works directly with pano
 main_linesVPs.m
 ```
 Running time: ~ 4 seg/im with Matlab on Linux machine with an Intel Core 3.6 GHz (4 cores)
+
+## Citation
+Please cite our paper for any purpose of usage.
+```
+@article{fernandez2018layouts,
+  title={Layouts from Panoramic Images with Geometry and Deep Learning},
+  author={Fernandez-Labrador, Clara and Perez-Yus, Alejandro and Lopez-Nicolas, Gonzalo and Guerrero, Jose J},
+  journal={arXiv preprint arXiv:1806.08294},
+  year={2018}
+}
+```

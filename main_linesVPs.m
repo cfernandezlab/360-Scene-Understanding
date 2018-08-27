@@ -7,4 +7,4 @@ panorama = imresize(panorama,[512,1024]);
 % Vanishing points and oriented lines
 tic;
 [vp, lines] = EdgesDetection(panorama);
-toc
+toc;

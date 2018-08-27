@@ -1,10 +1,8 @@
 %% FUNCIÓN PARA PASAR DE COORDENADAS XYZ DE LA ESFERA A PIXELES DE LA IMAGEN UV 
 
-%input (x,y,z)
-%output (W,H)
-
 function [uv, phitetha] = xyz2uv(xyz, imW, imH)
-
+    % Spatial rays are projected into pixels in the image (Spherical coordinates)
+    
     xyz = normr(xyz);
     normXY = sqrt( xyz(:,1).^2+xyz(:,2).^2);
     normXY(normXY<0.000001) = 0.000001;

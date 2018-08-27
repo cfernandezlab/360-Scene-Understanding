@@ -6,5 +6,6 @@ Matlab implementation for lines and vanishing points extraction directly on pano
 ## How it works
 - To run the code:
 ```
-main_linesVPs-m
+main_linesVPs.m
 ```
+Running time: ~ 4 seg/im with Matlab on Linux machine with an Intel Core 3.6 GHz (4 cores)

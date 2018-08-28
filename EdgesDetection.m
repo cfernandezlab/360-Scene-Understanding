@@ -1,5 +1,4 @@
-
-function [vp, GoodLines, inliersProp] = EdgesDetection(img)
+function [vp, GoodLines] = EdgesDetection(img)
 
 img = uint8(img);
 img_show = img;

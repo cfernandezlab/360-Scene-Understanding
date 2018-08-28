@@ -1,5 +1,3 @@
-%% FUNCIÓN PARA PASAR DE COORDENADAS XYZ DE LA ESFERA A PIXELES DE LA IMAGEN UV 
-
 function [uv, phitetha] = xyz2uv(xyz, imW, imH)
     % Spatial rays are projected into pixels in the image (Spherical coordinates)
     

@@ -12,7 +12,7 @@ We detect lines and VP by a RANSAC-based algorithm that works directly with pano
 ```
 main_linesVPs.m
 ```
-Running time: ~ 4 seg/im with Matlab on Linux machine with an Intel Core 3.6 GHz (4 cores)
+Running time: ~ 3.8 seg/im with Matlab on Linux machine with an Intel Core 3.6 GHz (4 cores)
 
 ## Citation
 Please cite our paper for any purpose of usage.

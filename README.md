@@ -27,3 +27,9 @@ Please cite our paper in your publications if it helps your research:
   year={2018}
 }
 ```
+
+## License 
+This software is under GNU General Public License Version 3 (GPLv3), please see [GNU License](http://www.gnu.org/licenses/gpl.html)
+
+For commercial purposes, please contact the authors.
+My personal website: [Clara](https://cfernandezlab.github.io).

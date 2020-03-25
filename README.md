@@ -1,4 +1,5 @@
-# 360-Scene-Understanding
+# 360 Scene Understanding
+Some tools to work with 360 images!
 
 ## Lines and Vanishing Points directly on Panoramas
 Matlab implementation for lines and vanishing points extraction directly on panoramic images. [paper](https://arxiv.org/pdf/1806.08294.pdf): 'Layouts from Panoramic Images with Geometry and Deep Learning' by Clara Fernandez-Labrador, Alejandro Perez-Yus, Gonzalo Lopez-Nicolas and José J. Guerrero.

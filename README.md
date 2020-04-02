@@ -19,9 +19,14 @@ main_linesVPs.m
 Running time: ~ 3.8 seg/im with Matlab on Linux machine with an Intel Core 3.6 GHz (4 cores)
 
 ## EquiConvs
+In the folder EquiConvs you can find a notebook showing how to compute and visualize the deformed kernel at different positions on the equirectangular image.
 
-Check the [Project Page](https://github.com/cfernandezlab/CFL), more details coming soon!
+Check the [Project Page](https://github.com/cfernandezlab/CFL) for more details!
 
+<p align="center">
+<img src='img/movie.gif' width=400>
+  </p>
+  
 ## 3D Layout from 2D corners
 
 coming soon!

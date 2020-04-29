@@ -1,5 +1,6 @@
 # 360 Scene Understanding
 Some tools to work with 360 images!
+Feel free to ask for more content.
 
 ## Lines and Vanishing Points directly on Panoramas
 Panoramic images are special since straight lines in the world are projected as curved line segments in the image. Additionally, parallel lines in the world intersect in two antipodal vanishing points in panoramas whereas in conventional images they intersect in one single vp. Here we adopt the Manhattan World assumption whereby there exist three dominant orthogonal directions in the scene. 

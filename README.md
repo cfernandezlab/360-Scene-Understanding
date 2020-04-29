@@ -36,16 +36,23 @@ Please cite these papers in your publications if it helps your research. For lin
 
 ```bibtex
 @article{fernandez2018layouts,
-  title={Layouts from Panoramic Images with Geometry and Deep Learning},
+  title={Layouts from panoramic images with geometry and deep learning},
   author={Fernandez-Labrador, Clara and Perez-Yus, Alejandro and Lopez-Nicolas, Gonzalo and Guerrero, Jose J},
-  journal={arXiv preprint arXiv:1806.08294},
-  year={2018}
+  journal={IEEE Robotics and Automation Letters},
+  volume={3},
+  number={4},
+  pages={3153--3160},
+  year={2018},
+  publisher={IEEE}
 }
 
 @article{fernandez2020corners,
   title={Corners for layout: End-to-end layout recovery from 360 images},
-  author={Fernandez-Labrador, Clara and Facil, Jose M and Perez-Yus, Alejandro and Demonceaux, C{\'e}dric and Civera, Javier and Guerrero, Josechu},
+  author={Fernandez-Labrador, Clara and Facil, Jose M and Perez-Yus, Alejandro and Demonceaux, C{\'e}dric and Civera, Javier and Guerrero, Jose J},
   journal={IEEE Robotics and Automation Letters},
+  volume={5},
+  number={2},
+  pages={1255--1262},
   year={2020},
   publisher={IEEE}
 }

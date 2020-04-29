@@ -25,7 +25,9 @@ Check the [Project Page](https://github.com/cfernandezlab/CFL) for more details!
 </p>
   
 ## 3D Layout from 2D corners
-coming soon!
+In the folder 2Dto3D you will find a notebook with visualizations to go from 2D corners in the panoramic image to the 3D layout (up to a scale)
+
+You can find more details in Section III [supplementary material](https://cfernandezlab.github.io/docs/CFL_supp.pdf).
 
 ## Related Research
 Please cite these papers in your publications if it helps your research. For lines and vanishing points, ``[Clara et al. 2018]``. For EquiConvs, ``[Clara et al. 2020]``.
